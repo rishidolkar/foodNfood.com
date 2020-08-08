@@ -22,6 +22,10 @@ nav{
 	justify-content: space-around;
 	align-items: center;
 }
+.para{
+	color: orange;
+	margin-top: 20px;
+}
 .logo{
 	width: 25%;
 	/*color: #fff;*/
